@@ -54,6 +54,3 @@ La transición entre estos modos se realiza mediante interrupciones o llamadas a
   - **Uso**: Permiten que el sistema operativo maneje errores de ejecución o servicios solicitados por programas en modo usuario.
   - **Ejemplo**: Divisiones por cero, violaciones de acceso a memoria.
 
-## Conclusión
-
-Entender estos conceptos es crucial para comprender cómo los sistemas operativos gestionan eficientemente los recursos del sistema, garantizando al mismo tiempo la seguridad y estabilidad.
